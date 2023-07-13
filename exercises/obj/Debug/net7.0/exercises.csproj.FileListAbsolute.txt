@@ -1,0 +1,15 @@
+/Users/tomasvazquez/Projects/exercises/exercises/bin/Debug/net7.0/exercises
+/Users/tomasvazquez/Projects/exercises/exercises/bin/Debug/net7.0/exercises.deps.json
+/Users/tomasvazquez/Projects/exercises/exercises/bin/Debug/net7.0/exercises.runtimeconfig.json
+/Users/tomasvazquez/Projects/exercises/exercises/bin/Debug/net7.0/exercises.dll
+/Users/tomasvazquez/Projects/exercises/exercises/bin/Debug/net7.0/exercises.pdb
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.csproj.AssemblyReference.cache
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.AssemblyInfoInputs.cache
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.AssemblyInfo.cs
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.csproj.CoreCompileInputs.cache
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.dll
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/refint/exercises.dll
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.pdb
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/exercises.genruntimeconfig.cache
+/Users/tomasvazquez/Projects/exercises/exercises/obj/Debug/net7.0/ref/exercises.dll
